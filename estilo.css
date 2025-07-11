@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 20px;
+}
+
+h1 {
+    color: #0074b8;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: #ffffff;
+}
+
+table, th, td {
+    border: 1px solid #cccccc;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px;
+    background-color: #0074b8;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+form input, form textarea {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}

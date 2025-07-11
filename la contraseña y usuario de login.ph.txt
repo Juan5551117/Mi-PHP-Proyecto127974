@@ -1,0 +1,3 @@
+la contraseña y usuario de login.php es:
+usuario: admin
+contraseña: 1234
